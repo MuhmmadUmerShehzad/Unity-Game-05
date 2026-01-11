@@ -33,47 +33,6 @@ This is a multi-level space simulation game built in Unity featuring:
 - **Main Menu**: Navigation to start the game
 - **Landing Summary**: Post-landing statistics and results
 
-## Project Structure
-
-```
-Assets/
-├── Scripts/
-│   ├── Game Manager.cs          # Core game logic and level management
-│   ├── Lander.cs                # Player spacecraft controller
-│   ├── GameLevel.cs             # Individual level setup and configuration
-│   ├── GameInput.cs             # Input handling system
-│   ├── LandingPad.cs            # Landing zone logic
-│   ├── LandingPadVisual.cs      # Landing pad visual effects
-│   ├── CoinPickup.cs            # Collectible coin mechanics
-│   ├── Fuel.cs                  # Fuel collectible items
-│   ├── LanderVisuals.cs         # Visual effects for the lander
-│   ├── LanderAudio.cs           # Sound effects for the lander
-│   ├── CinemechineCameraZoom2D.cs # Camera zoom mechanics
-│   ├── StatsUI.cs               # In-game statistics display
-│   ├── LandedUI.cs              # Landing result display
-│   ├── MainMenuUI.cs            # Main menu interface
-│   ├── SoundManager.cs          # Global audio management
-│   ├── SceneLoader.cs           # Scene management and transitions
-│   └── InputActions.cs           # Input action definitions
-├── Scenes/
-│   ├── MainMenuScene
-│   └── GameScene
-├── Prefabs/
-│   ├── Lander
-│   ├── Landing Pad
-│   ├── Coin
-│   └── Other interactive objects
-├── Sounds/
-│   ├── Thrust effects
-│   ├── Landing effects
-│   ├── Coin pickup
-│   └── Background music
-├── Textures/
-│   ├── Lander sprites
-│   ├── Environment assets
-│   └── UI elements
-└── Resources/
-```
 
 ## Key Classes
 
