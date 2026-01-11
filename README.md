@@ -190,12 +190,8 @@ Points awarded for:
 
 ## License
 
-This project is part of a coding tutorial series and is provided as-is for educational purposes.
+This project is for education purposes only.
 
-## Support
-
-For issues or questions about the project, refer to the code comments or review the individual script documentation within the Assets/Scripts folder.
-
----
-
-**Game #05** - Precision Lunar Landing Challenge
+## Game Files
+Link for the project 
+[Game File](https://drive.google.com/file/d/16sqaU0e_iYy858vL32m7CpolqZWjzoBQ/view?usp=sharing)
